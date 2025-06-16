@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasloxamine" alt="yasloxamine" /></a> </p>
 
-- 🔭 I’m currently working on [Green Products Library Project](https://github.com/yasloxamine/Green-Products-Library-Project)
-
+- 🔭 I’m currently working on a mobile app called Khaddam, designed to solve the problem of job visibility for skilled workers in Morocco by connecting them directly with clients in need of local services.
+  
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://amineyaslo.dev](https://amineyaslo.dev)
