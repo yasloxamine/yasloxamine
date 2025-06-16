@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Mohamed Amine Yaslo</h1>
-<h3 align="center">PERN Stack Developer | IT Support | Game Designer</h3>
+<h3 align="center">PERN Stack Developer | React Native | IT Support | Game Designer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasloxamine" alt="yasloxamine" /></a> </p>
 
