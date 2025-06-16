@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a mobile app called Khaddam, designed to solve the problem of job visibility for skilled workers in Morocco by connecting them directly with clients in need of local services.
   
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently enhacing my skills on react native, ui kitten, expo, node, express, firebase, APIs ...
 
-- 👨‍💻 All of my projects are available at [https://amineyaslo.dev](https://amineyaslo.dev)
+- 👨‍💻 All of my projects are available at [https://amineyaslo.dev](https://amineyaslo.dev) except the project that i'm currently working on.
 
-- 💬 Ask me about **react, javascript, unity, blender**
+- 💬 Ask me about **react,react native, Web Dev, expo, javascript, unity, blender**
 
 - 📫 How to reach me **yasloxamine@gmail.com**
 
