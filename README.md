@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? i'm a Full Stack Engineer | Building High Quality Multilingual Scalable Mobile & Web Apps using React Native & PERN Stack | Building an MVP solution (KHADDAM Mobile App)</h1>
+<h1 align="center">Hey 👋What's Up? i'm a Full Stack Engineer | Building High Quality Multilingual Scalable Mobile & Web Apps using React Native & PERN Stack</h1>
 
 ###
 
